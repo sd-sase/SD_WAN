@@ -1,8 +1,9 @@
 ![image](https://github.com/sd-sase/SD_WAN/assets/40165707/db627539-71c1-42c9-b8ad-16659f930ce8)# SD_WAN
+
 SD-WAN一站式解决方案
+
 海禛云SD-WAN
 
-![Uploading 0e81f88eed010a7a6355dcd4926daa5.png…]()
 
 1、一站式支持X86芯片平台、ARM 芯片架构平台
 2、一站式支持纯软件解决方案、软硬件一体化解决方案
